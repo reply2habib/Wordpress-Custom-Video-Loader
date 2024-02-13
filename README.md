@@ -3,6 +3,7 @@ WordPress Custom Video Loader" is a feature that replaces the traditional websit
 
 
 // Step # 01
+<!-- header.php = Just after Body Tag -->
 Add div in the wordpress header.php file.
 
 // Step # 02
